@@ -1,9 +1,8 @@
 # uncodable-archive
 An archive of uncodables repositories, and what happened to him
 
-uncodable was allegedly trying to start a relationship with a 11 year old girl
-he has unadded everyone on snap and purged all of his github repositories
-I personally have nothing against uncodable, but I believe in the right for the public to retain access to his publicized work.
+uncodable was **allegedly** trying to start a relationship with a 11 year old girl. He has unadded everyone on snap and purged all of his github repositories
+###### Note: I personally have nothing against uncodable, unless this accusations are true, but I believe in the right for the public to retain access to his publicized work.
 
 ![IMG_7548](https://user-images.githubusercontent.com/51808579/156911410-2347f17a-eabe-4da3-86ec-a2708b561414.png)
 ![unknown](https://user-images.githubusercontent.com/51808579/156911413-51d52a11-d507-4be9-b84e-35b8cd2de6c2.png)
